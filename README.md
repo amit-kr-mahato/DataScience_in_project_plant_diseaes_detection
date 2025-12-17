@@ -1,0 +1,1 @@
+# DataScience_in_project_plant_diseaes_detection
